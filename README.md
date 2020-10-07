@@ -90,7 +90,7 @@ Cuando sea necesario para cumplir con un procedimiento legal (incluyendo una ord
 6.4. El Usuario tiene derecho a cancelar la cuenta en cualquier momento. Los datos personales serán conservados únicamente durante el periodo que marquen las obligaciones legalmente establecidas al efecto y sólo para dar cumplimiento a exigencias legales.
 
 
-7. Acceso a programas o software ajenos a Fliics
+7. Acceso a programas o software ajenos a Flinics
 7.1. Para el correcto uso de la aplicación y la optimización de sus recursos, FLINICS podrá recomendarle que acceda a sitios Web o soportes de terceros o, incluso, que proceda a la descarga y configuración de software de terceros sobre los que FLINICS no tiene ningún tipo de control. La presente Política de Privacidad no resulta de aplicación a los citados sitios Web, soportes o software. Por ello, en este sentido, cualquier actividad que el Usuario lleve a cabo en relación a sitios o productos ajenos a FLINICS deberá regirse por los términos, condiciones, avisos legales y política de privacidad de las mismas, de las que FLINICS no se hace responsable.
 
 
@@ -112,7 +112,7 @@ Cuando sea necesario para cumplir con un procedimiento legal (incluyendo una ord
 
 
 10. Comentarios o preguntas.
-10.1. Si usted tiene algún comentario, solicitud, consulta, o pregunta sobre esta Política de Privacidad o el uso de cualquier Información Personal, póngase en contacto con nosotros en info@inventiaagrarica.com.
+10.1. Si usted tiene algún comentario, solicitud, consulta, o pregunta sobre esta Política de Privacidad o el uso de cualquier Información Personal, póngase en contacto con nosotros en flinics.app@gmail.com.
 
 
 11. Ley aplicable y jurisdicción competente.
